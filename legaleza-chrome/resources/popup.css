@@ -1,0 +1,15 @@
+.legaleza-popup {
+    /*background-color: red;*/
+    border-bottom: 2px solid yellow;
+}
+
+.legaleza-popup > div {
+    display: none;
+    position: absolute;
+    background-color: yellow;
+    z-index: 100;
+}
+
+.legaleza-popup:hover > div {
+    display: inline;
+}

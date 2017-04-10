@@ -1,0 +1,1377 @@
+[
+    {
+        "keyword": "ABATERE",
+        "legaleza": "încălcarea dispozițiilor cu caracter administrativ sau disciplinar, prevăzută de legi (sau alte norme) și care atrage după sine sancțiuni disciplinare sau contravenționale",
+        "romana": "ai greșit, frate! încă nu e foarte grav, dacă nu-i spune „infracțiune”"
+    },
+    {
+        "keyword": "ABROGARE",
+        "legaleza": "anularea unei legi sau a unei dispoziții legale și care are ca rezultat scoaterea din vigoare, în tot sau în parte, a unui act normativ printr-un alt act normativ de aceeași valoare juridică sau de o valoare juridică superioară",
+        "romana": "puf!, gata, nu mai e!"
+    },
+    {
+        "keyword": "ABȚINERE",
+        "legaleza": "situația în care judecătorul, procurorul, grefierul sau expertul care se află într-unul din cazurile de recuzare prevăzute de lege declară aceasta și este înlocuit dacă se constată că nu poate să participe în proces (de ex. este rudă cu una dintre părțile din proces)",
+        "romana": "se retrage, ca să nu-i zică lumea c-a fost pe nașpa"
+    },
+    {
+        "keyword": "ABUZ DE DREPT",
+        "legaleza": "exercitarea unui drept împotriva scopului lui economic și social, a legii sau regulilor de conduită socială",
+        "romana": "te folosești de ceva mișto din lege, da’ ca să-ți bați joc de ăia"
+    },
+    {
+        "keyword": "ABUZ ÎN SERVICIU",
+        "legaleza": "fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, nu îndeplineşte un act sau îl îndeplineşte în mod defectuos cauzând astfel o pagubă ori o vătămare a drepturilor sau intereselor legitime ale unei persoane fizice sau ale unei persoane juridice, precum şi fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, îngrădeşte exercitarea unui drept al unei persoane ori creează pentru aceasta o situaţie de inferioritate pe temei de rasă, naţionalitate, origine etnică, limbă, religie, sex, orientare sexuală, apartenenţă politică, avere, vârstă, dizabilitate, boală cronică necontagioasă sau infecţie HIV/SIDA.",
+        "romana": "la fel k violu’, numa’ că cu legea"
+    },
+    {
+        "keyword": "ACCES LA INFORMAȚII",
+        "legaleza": "dreptul persoanei de a avea acces la orice documentaţie de interes public",
+        "romana": "când vrei tu să știi, c-așa vrei tu"
+    },
+    {
+        "keyword": "ACCESIUNE",
+        "legaleza": "încorporarea materială a unui bun considerat mai puțin important în altul mai important, cu efectul dobândirii dreptului de proprietate asupra primului bun de către proprietarul celui de-al doilea (ex. cumpărătorul unui set de mobilier dobândește și oglinda încorporată în el).",
+        "romana": "clar e ceva moka, numa’ că e cumva neașteptat"
+    },
+    {
+        "keyword": "ACORD",
+        "legaleza": "reprezintă consimțământul la ceva, înțelegerea dintre două sau mai multe părți pentru încheierea unui act juridic",
+        "romana": "am bătut palma, avem un „deal”"
+    },
+    {
+        "keyword": "ACT",
+        "legaleza": "document elaborat de o autoritate, prin care se atestă un fapt, o obligație, identitatea cuiva",
+        "romana": "hârtie cu ștampilă și cu semnătură, gen"
+    },
+    {
+        "keyword": "ACT AUTENTIC",
+        "legaleza": "mijlocul de probă din categoria înscrisurilor, care s-a încheiat cu solemnitățile cerute de lege, de către un funcționar public, care are dreptul de a funcționa în locul unde s-a încheiat actul",
+        "romana": "tot așa, hârtie cu semnătură și ștampilă, da’ în original"
+    },
+    {
+        "keyword": "ACT DE SESIZARE",
+        "legaleza": "actul prin care este sesizat organul de urmărire penală sau se dispune trimiterea în judecată a inculpatului. Actul de sesizare al instanței îl constituie rechizitoriul sau plângerea prealabilă a persoanei vătămate, în cazurile prevăzute de lege",
+        "romana": "cum ar fi plângere la poliție sau la parchet, să-l ia cu duba; numa' că rechizitoriul îl face procuroru'"
+    },
+    {
+        "keyword": "ACT JURIDIC CIVIL",
+        "legaleza": "manifestare de voință cu intenția de a produce efecte juridice, adică de a crea, modifica ori stinge un raport juridic civil",
+        "romana": "orice fel de contract, frate!"
+    },
+    {
+        "keyword": "ACT SUB SEMNĂTURĂ PRIVATĂ",
+        "legaleza": "mijloc de probă din categoria înscrisurilor, încheiat între părți, fără prezența unui funcționar public, dar care cuprinde, pe lângă conținut și semnătura părților, elemente necesare pentru valabilitatea lui",
+        "romana": "o chitanță de mână sau orice ai semnat, mai puțin autografele"
+    },
+    {
+        "keyword": "ACTIV PATRIMONIAL",
+        "legaleza": "totalitatea bunurilor şi a creanţelor susceptibile de evaluare bănească din patrimoniul unei persoane.",
+        "romana": "tot ce ai tu din care se pot scoate bani"
+    },
+    {
+        "keyword": "ACTE PREMERGĂTOARE",
+        "legaleza": "actele procedurale, efectuate în scopul de a completa informațiile pe care le au organele de urmărire penală cu privire la săvârșirea unei infracțiuni",
+        "romana": "acțiuni ale poliției și procurorilor, nu neapărat hârtii cu semnături, da' tot pe-acolo"
+    },
+    {
+        "keyword": "ACȚIUNE CIVILĂ",
+        "legaleza": "mijlocul legal cel mai important de protejare (prin constrângere judiciară) a drepturilor civile încălcate sau a intereselor ocrotite de lege; posibilitatea reclamantului de a obține recunoașterea sau realizarea dreptului său contestat, încălcat, nerespectat, prin constrângerea judiciară a pârâtului",
+        "romana": "când dai pe cineva în judecată, posibil chiar statul, poliția, o instituție nașpa; rezultatul e că, data viitoare, poate se gândește de două ori înainte de-a face vreo nefăcută"
+    },
+    {
+        "keyword": "ACTIUNE CIVILĂ ÎN PROCESUL PENAL",
+        "legaleza": "mijlocul legal prin care persoana care a suferit o pagubă ca urmare a infracțiunii săvârșite, solicită despăgubiri în vederea reparării pagubei",
+        "romana": "dacă tot au prins hoțul, vrei să-ți iei și telefonul înapoi, nu?"
+    },
+    {
+        "keyword": "ACȚIUNE ÎN CONSTATAREA NULITĂȚII ABSOLUTE A\n  UNUI ACT JURIDIC",
+        "legaleza": "mijloc procedural de valorificare a dreptului de a cere în justiție desființarea retroactivă a unui act juridic lovit de nulitate absolută (poate fi intentată de oricare din părți, de către procuror și de către orice persoană interesată, oricând, fiind imprescriptibilă)",
+        "romana": "dacă hârtia aia nu valorează nimic, cer să fie declarată nulă (și pot face asta oricând)"
+    },
+    {
+        "keyword": "ACȚIUNE ÎN JUSTIȚIE",
+        "legaleza": "mijlocul legal (sub forma unei cereri) prin care se aduce înaintea instanței conflictul de drepturi născut din încălcarea unei norme, și prin care se solicită constatarea sau realizarea unui drept, fiind condiția necesară ca o instanță să judece",
+        "romana": "când dai pe cineva în judecată, când îi deschizi cuiva un proces; rezultatul e că-ți câștigi dreptatea"
+    },
+    {
+        "keyword": "ACȚIUNE ÎN REVENDICARE",
+        "legaleza": "acțiunea prin care proprietarul care a pierdut posesia asupra unui bun individual determinat, cere instanței să i se stabilească dreptul de proprietate asupra bunului și să redobândească posesia lui de la cel care îl stăpânește fără drept",
+        "romana": "dacă era al meu, să mi-l dea înapoi!"
+    },
+    {
+        "keyword": "ACȚIUNE PENALĂ",
+        "legaleza": "mijlocul prevăzut de lege prin care se realizează, în justiție, tragerea la răspunderea penală a persoanelor care au săvârșit infracțiuni și pedepsirea acestora, pusă în mișcare prin actul de inculpare prevăzut de lege (ordonanța procurorului sau rechizitoriul de trimitere în judecată, dacă acțiunea penală nu a fost pusă în mișcare în cursul urmăririi) și care constituie mijlocul de sesizare a instanței, în vederea judecății",
+        "romana": "când dai pe cineva în judecată, când îi deschizi cuiva un proces; rezultatul e că poate merge la pușcărie"
+    },
+    {
+        "keyword": "ALIBI",
+        "legaleza": "dovada sau mijlocul de apărare prin care o persoană dovedește că nu ar fi putut săvârși infracțiunea (de ex. dovedește că se afla în alt loc)",
+        "romana": "n-am fost io, că nu eram acia"
+    },
+    {
+        "keyword": "AMENDĂ",
+        "legaleza": "sancțiunea administrativă, contravențională, fiscală sau civilă care constă în obligația autorilor unor fapte ilicite, de a plăti o sumă de bani care se face venit la bugetul de stat",
+        "romana": "nu-i chiar nota de la bar, da’ ai greșit, așa că tot e de plătit bani, mă-nțelegi?"
+    },
+    {
+        "keyword": "AMENDĂ CIVILĂ",
+        "legaleza": "sancţiune de drept procesual civil aplicată de către instanţa judecătorească în vederea constrângerii debitorului la îndeplinirea unei obligaţii iniţiale de a face, constând în plata unei sume de bani către stat, sumă stabilită pe zi de întârziere până la executarea obligaţiei",
+        "romana": "sângerezi la buzunare, până faci ce-ai zis că faci!"
+    },
+    {
+        "keyword": "AMENDĂ CONTRAVENȚIONALĂ",
+        "legaleza": "sancţiune principală ce se aplică pentru comiterea unei contravenţii.",
+        "romana": "n-ai greșit atât de tare, tot te arde-n buzunare!"
+    },
+    {
+        "keyword": "AMENDĂ JUDICIARĂ",
+        "legaleza": "reprezintă sancțiunea ce se aplică de către organul de urmărire penală prin ordonanță și de instanța de judecată, prin încheiere, persoanei care, în cursul procesului a săvârșit o abatere judiciară dintre cele prevăzute de legea procesuală",
+        "romana": "dacă n-ai fost cuminte în sala de judecată, dacă ai vorbit urât cu judecătorii, plătești, deh!"
+    },
+    {
+        "keyword": "AMENDĂ PENALĂ",
+        "legaleza": "pedeapsa principală, alternativă cu pedeapsa închisorii, ce constă în suma de bani pe care este obligat să o plătească cel condamnat pentru săvârșirea unei infracțiuni",
+        "romana": "dai un ban da’ stai … afară"
+    },
+    {
+        "keyword": "AMNISTIE",
+        "legaleza": "act de clemență a puterii legislative (Parlamentul României) prin care se înlătură răspunderea penală pentru fapta săvârșită, cauză care înlătură răspunderea penală alături de prescripția răspunderii penale, lipsa plângerii prealabile și împăcarea părților. Ea se acorda prin lege și, dacă intervine înainte de condamnare, înlătură răspunderea penală, iar dacă intervine după condamnare înlătură și executarea pedepsei, precum și celelalte consecințe ale condamnării. Amnistia nu are efecte asupra măsurilor de siguranță, educative și asupra drepturilor persoanei vătămate (nu înlătură acțiunea civilă)",
+        "romana": "o formă de iertare a infracțiunii—îți dai seama câți o să iasă?, păi n-o să mai avem loc la terase, nenică!"
+    },
+    {
+        "keyword": "ANULARE",
+        "legaleza": "sancțiune civilă ce constă în desființarea retroactivă, prin hotărâre judecătorească, a unui act juridic lovit de nulitate relativă",
+        "romana": "ca și cum n-ar fi existat"
+    },
+    {
+        "keyword": "ARHIVĂ",
+        "legaleza": "totalitatea actelor, dosarelor, documentelor unei instituţii, unui oraş etc. care se referă la activitatea acestora.",
+        "romana": "o cârcă de dosare și hârțogăraie"
+    },
+    {
+        "keyword": "ARHIVA INSTANŢEI",
+        "legaleza": "serviciu administrativ al instanţei de judecată unde se păstrează, în dulapuri speciale, pe termene fixate (zilele când urmează să aibă loc judecata) dosarele aflate în curs de judecată, iar cele judecate în locuri special amenajate",
+        "romana": "tot o cârcă, da’ ordonată!"
+    },
+    {
+        "keyword": "APEL",
+        "legaleza": "calea de atac ordinară cu care pot fi atacate toate sentințele, cu excepțiile prevăzute de lege, fiind al doilea grad de jurisdicție asupra fondului cauzei",
+        "romana": "ăștia au greșit, las’ că mă duc mai sus, să le-arate judecătorii ăia care știu mai multă carte!"
+    },
+    {
+        "keyword": "APROD",
+        "legaleza": "persoana ce îndeplineşte funcţii administrative la instanţele de judecată, aduce la îndeplinire dispoziţiile instanţei în legătură cu păstrarea ordinii şi a solemnităţii dezbaterilor.",
+        "romana": "un fel de jandarm al instanței"
+    },
+    {
+        "keyword": "ARESTARE PREVENTIVĂ",
+        "legaleza": "măsura procesuală luată de judecător în condițiile expres prevăzute de Codul de procedură penală, constând în privarea de libertate a unei persoane pentru a asigura desfășurarea procesului penal în vederea realizării scopului acestuia",
+        "romana": "la mititica, până se judecă; după judecată, dacă ești vinovat, te transferă la răcoare, mă-nțelegi?"
+    },
+    {
+        "keyword": "AREST LA DOMICILIU",
+        "legaleza": "măsura procesuală preventivă care se dispune de către judecătorul de drepturi şi libertăţi, de către judecătorul de cameră preliminară sau de către instanţa de judecată, în situaţia în care există probe sau indicii temeinice din care rezultă suspiciunea că o persoană a săvârşit o infracţiune şi dacă este necesară în scopul asigurării bunei desfăşurări a procesului penal, al împiedicării sustragerii suspectului ori a inculpatului de la urmărirea penală sau de la judecată ori al prevenirii săvârşirii unei alte infracţiuni",
+        "romana": "stai acasă cu brățara la picior, cum ai văzut în filme; da’ cine-ți ia țigări?!"
+    },
+    {
+        "keyword": "AUDIERE",
+        "legaleza": "act procedural ce constă în ascultarea părților, a martorului, a expertului, pe parcursul procesului, în modul și în condițiile prevăzute de lege",
+        "romana": "ziceți, domnu’, vă ascultăm cu interes"
+    },
+    {
+        "keyword": "AUTORITATE DE LUCRU JUDECAT",
+        "legaleza": "principiu juridic potrivit căruia hotărârile judecătorești definitive capătă autoritate (putere) de lucru judecat, nemaiputând fi atacate decât prin căile de atac extraordinare. Hotărârile judecătorești definitive devin executorii și împiedică o nouă urmărire pentru aceeași faptă, chiar dacă acesteia i s-ar da o nouă încadrare juridică",
+        "romana": "adică nu vii tu acuma să dai peste cap ce-a hotărât un judecător, da?"
+    },
+    {
+        "keyword": "AUTOR NECUNOSCUT",
+        "legaleza": "persoana care săvârşeşte în mod nemijlocit o faptă prevăzută de legea penală, dar despre care nu se cunosc detalii, cu privire la care s-a facut sesizarea organului judiciar",
+        "romana": "vorba lu' Nenea Iancu: „ăla io, ăla io, ăla niciunu'!”"
+    },
+    {
+        "keyword": "AUTORITATE TUTELARĂ",
+        "legaleza": "organ al administraţiei publice căruia îi revin atribuţiile privitoare la organizarea tutelei, la supravegherea, controlul şi îndrumarea modului în care se desfăşoară activitatea de ocrotire a minorilor",
+        "romana": "un fel de mama ta și tata tău, plus bunicii, la pachet, da’ sub formă de instituție publică"
+    },
+    {
+        "keyword": "AUTOSESIZARE",
+        "legaleza": "modalitatea organului de urmărire penală de a se sesiza din oficiu ori de câte ori constată prin mijloace proprii, altele decât denunţul sau plângerea, săvârșirea unei infracţiuni",
+        "romana": "dacă vrea mușchiu’ lui de organ, se autosesizează, na!"
+    },
+    {
+        "keyword": "AVERE ILICITĂ",
+        "legaleza": "avere obţinută prin mijloace interzise de legea penală",
+        "romana": "știi și tu de unde vin banii și casele-alea, da’ nu vrei să recunoști c-ai încălcat legea"
+    },
+    {
+        "keyword": "AVERE NEJUSTIFICATĂ",
+        "legaleza": "avere a cărei provenienţă nu poate fi justificată din punct de vedere legal",
+        "romana": "nici tu nu mai știi de unde-ai scos banii ăia sau de unde ți-a crescut o casă-n curte :P"
+    },
+    {
+        "keyword": "BUNĂ CREDINȚĂ",
+        "legaleza": "obligația de comportament conform cu regulile de conviețuire, care revine părților la încheierea și executarea unei convenții",
+        "romana": "cum vrem cu toții, să fie bine, ca să nu fie rău!"
+    },
+    {
+        "keyword": "BUNE MORAVURI",
+        "legaleza": "constituie ansamblul normelor de conduită, cu caracter moral, la care legea civilă face uneori trimitere pentru a fi luate în considerare de către instanță, ca un criteriu de apreciere a caracterului imperativ al unor texte de lege, a caracterului ilicit al unei cauze sau al unor condiții contractuale",
+        "romana": "cum ar fi trebuit să stea lucrurile, ca să fie cu adevărat bine pentru toată lumea, băi, nene!"
+    },
+    {
+        "keyword": "BUNURI",
+        "legaleza": "obiecte cu o valoare economică, în privința cărora se pot constitui drepturi și obligații patrimoniale",
+        "romana": "bani, bijuterii, tablouri, d-astea..."
+    },
+    {
+        "keyword": "BUNURI COMUNE",
+        "legaleza": "bunurile dobândite în timpul căsătoriei de oricare dintre soți care, de la data dobândirii lor, sunt bunuri ale ambilor soți. La desfacerea căsătoriei bunurile comune fac obiectul partajului",
+        "romana": "ce-am luat amândoi, se-mparte pe din doi!"
+    },
+    {
+        "keyword": "BUNURI IMOBILE",
+        "legaleza": "bunuri care au o așezare fixă, stabile, care nu pot fi mutate dintr-un loc în altul fără să-și piardă destinația inițială sau identitatea (ex.: terenuri, clădiri)",
+        "romana": "case, terenuri, apartament la bloc, vilă la munte..."
+    },
+    {
+        "keyword": "BUNURI MOBILE",
+        "legaleza": "bunuri care nu au o așezare fixă, stabilă (care poate fi mișcat dintr-un loc în altul prin forța proprie sau cu concursul unei energii străine, fără să-și piardă valoarea economică)",
+        "romana": "telefoane, mașini, televizoare, frigidere..."
+    },
+    {
+        "keyword": "CALE DE ATAC",
+        "legaleza": "mijloc procedural prin intermediul căruia părţile interesate sau procurorul au posibilitatea de a solicita şi obţine desfiinţarea hotărârilor judecătoreşti nelegale sau netemeinice. Prin căile de atac ordinare (apel) se exercită un control judiciar asupra hotărârilor judecătoreşti nedefinitive",
+        "romana": "ăștia au greșit, las’ că mă duc mai sus, să le-arate judecătorii ăia care știu mai multă carte!"
+    },
+    {
+        "keyword": "CALE EXTRAORDINARĂ DE ATAC",
+        "legaleza": "prin căile de atac extraordinare (recurs, contestaţie în anulare, revizuire) controlul judiciar este exercitat asupra hotărârilor judecătoreşti definitive",
+        "romana": "ăștia au greșit, las’ că mă duc mai sus, să le-arate judecătorii ăia care știu mai multă carte!"
+    },
+    {
+        "keyword": "CAMERĂ PRELIMINARĂ",
+        "legaleza": "instituţie de drept procesual penal menită să contribuie la reducerea duratei proceselor şi simplificarea procedurilor judiciare penale. Prin procedura camerei preliminare se urmăreşte rezolvarea chestiunilor ce ţin de legalitatea trimiterii în judecată şi de legalitatea administrării probelor, asigurându-se premisele pentru soluţionarea cu celeritate a cauzei în fond.",
+        "romana": "să ne zică dacă ne primesc la judecată!"
+    },
+    {
+        "keyword": "CAPACITATE DE EXERCIȚIU",
+        "legaleza": "aptitudinea persoanelor cu voinţă conştientă şi discernământ de a încheia acte juridice civile, de a dobândi drepturi şi de a-şi asuma obligaţii prin acte juridice proprii",
+        "romana": "sunt major, sunt vaccinat, fac ce vreau!"
+    },
+    {
+        "keyword": "CAPACITATE DE FOLOSINȚĂ",
+        "legaleza": "calitatea omului de a fi subiect de drept, aptitudinea sa de a fi titular de drepturi și obligații; aptitudinea persoanei juridice de a avea drepturile și obligațiile în concordanță cu scopul avut în vedere la înființarea ei",
+        "romana": "de când ești prunc și pân’ la bătrânețe"
+    },
+    {
+        "keyword": "CAUȚIUNE",
+        "legaleza": "suma de bani pe care trebuie să o depună inculpatul ca garanție că va respecta obligațiile ce-i revin în timpul liberării provizorii",
+        "romana": "și dacă te crede judecătorul pe cuvânt, tot tre’ să mai dai un ban"
+    },
+    {
+        "keyword": "CAUZE JUSTIFICATIVE",
+        "legaleza": "stări, situaţii cazuri, împrejurări prevăzute de legea penală şi a căror existenţă, în timpul săvârşirii unei fapte incriminate, fac ca aceasta să nu constituie infracţiune (ex. starea de necesitate, legitima apărare)",
+        "romana": "iexistă o explicație!"
+    },
+    {
+        "keyword": "CAUZE DE NEIMPUTABILITATE",
+        "legaleza": "cauze personale care înlătură vinovăția ca trăsătură esențială a infracțiunii (ex. constrângerea, minoritatea)",
+        "romana": "da’ io am fost și bolnav când eram mic, ce mai vrei de la mine?"
+    },
+    {
+        "keyword": "CAZ FORTUIT",
+        "legaleza": "cauză generală care înlătură răspunderea pentru fapta generată de un eveniment care nu poate fi prevăzut şi nici împiedicat",
+        "romana": "norocul unuia, ghinionul altuia"
+    },
+    {
+        "keyword": "CERCETARE PENALĂ",
+        "legaleza": "activitatea desfăşurată în cadrul urmăririi penale de către organele de cercetare penală, constând, printre altele, în strângerea probelor, identificarea infractorului şi stabilirea răspunderii acestuia",
+        "romana": "ce-a’ făcut, Bo$$?"
+    },
+    {
+        "keyword": "CERERE",
+        "legaleza": "sesizare adresată unui organ de jurisdicție sau unui alt organ de stat pentru valorificarea, recunoașterea sau apărarea unui drept",
+        "romana": "plângere, lăcrămație, petiție, jalbă"
+    },
+    {
+        "keyword": "CERERE DE CHEMARE ÎN JUDECATĂ",
+        "legaleza": "act procedural prin care se pune în mişcare acţiunea civilă şi se învesteşte instanţa cu soluţionarea acesteia",
+        "romana": "cum ajungi la judecată"
+    },
+    {
+        "keyword": "CERERE RECONVENŢIONALĂ",
+        "legaleza": "mijlocul procedural prin care pârâtul dintr-un proces pendinte formulează pretenţii proprii împotriva reclamantului",
+        "romana": "mă pârăști, te pârăsc și eu pe tine"
+    },
+    {
+        "keyword": "CLAUZĂ ABUZIVĂ",
+        "legaleza": "clauza contractuală care nu a fost negociată direct cu consumatorul şi care prin ea însăşi sau împreună cu alte prevederi din contract creează, în detrimentul consumatorilor şi contrar cerinţelor bunei-credinţe, un dezechilibru semnificativ între drepturile şi obligaţiile părţilor",
+        "romana": "steluța de pe ultima pagină, scrisă cu font de 3"
+    },
+    {
+        "keyword": "CIRCUMSTANȚE ATENUANTE",
+        "legaleza": "stări, situaţii, împrejurări avute în vedere la individualizarea judiciară a pedepselor care atrag o diminuare a sancţiunii",
+        "romana": "te-nțeleg, plătești mai puțin, da’ nu te iert!"
+    },
+    {
+        "keyword": "CIRCUMSTANȚE AGRAVANTE",
+        "legaleza": "stări, situaţii sau împrejurări care reflectă un grad de pericol social mai ridicat al faptei ori periculozitate mai mare a infractorului şi care atrag o agravare a pedepsei",
+        "romana": "hai ca-i groasă rău, nu scapi deloc ușor"
+    },
+    {
+        "keyword": "CLAUZĂ CONTRACTUALĂ",
+        "legaleza": "stipulație inclusă de părți, în virtutea principiului libertății convențiilor, în conținutul contractului lor",
+        "romana": "ce scrie în contract că ai dreptul să faci ori că te obligă să faci"
+    },
+    {
+        "keyword": "CLASARE",
+        "legaleza": "modalitate de încetare a procesului penal, în faza de urmărire penală",
+        "romana": "pfiu, bine c-am scăpat!"
+    },
+    {
+        "keyword": "CLAUZĂ PENALĂ",
+        "legaleza": "stipulaţie contractuală prin care părţile evaluează anticipat cuantumul despăgubirilor ce vor fi datorate de partea în culpă, în cazul neîndeplinirii ori îndeplinirii defectuoase a obligaţiilor asumate",
+        "romana": "dacă nu te ții de treabă, vei plăti"
+    },
+    {
+        "keyword": "COMPETENȚĂ",
+        "legaleza": "capacitatea dată de lege unei instanțe de a soluționa anumite litigii sau de a rezolva anumite cereri",
+        "romana": "dacă poate sau nu poate să judece chestiunea"
+    },
+    {
+        "keyword": "COMPETENȚĂ MATERIALĂ",
+        "legaleza": "este de două feluri: competența materială funcțională, care se stabilește după felul atribuțiilor jurisdicționale ce revin fiecărei categorii de instanțe și competența materială procesuală, care se stabilește în raport de obiectul, valoarea sau natura litigiului dedus judecății",
+        "romana": "dacă poate sau nu poate să judece chestiunea—după cum s-a întâmplat; după ce anume s-a întâmplat"
+    },
+    {
+        "keyword": "COMPETENȚĂ TERITORIALĂ",
+        "legaleza": "capacitatea unei instanțe de a soluționa anumite litigii sau de a rezolva anumite cereri, din punct de vedere al teritoriului arondat acesteia prin lege, și care se determină în funcție de domiciliul sau sediul părților din cauza dedusă judecății",
+        "romana": "dacă poate sau nu poate să judece chestiunea—după locul unde s-a întâmplat"
+    },
+    {
+        "keyword": "COMPLET DE JUDECATĂ",
+        "legaleza": "numărul de judecători prevăzut de lege care participă la judecarea unor categorii de cauze într-un anumit stadiu (trei judecători formează completul de recurs, doi judecători formează completul de apel, un judecător de obicei, formează completul de prima instanță)",
+        "romana": "echipă de judecători care lucrează împreună"
+    },
+    {
+        "keyword": "COMPLICE",
+        "legaleza": "participantul care, cu intenţie, înlesneşte sau ajută în orice mod la săvârşirea unei fapte prevăzute de legea penală sau care promite, înainte sau în timpul săvârşirii faptei, că va tăinui bunurile provenite din aceasta sau că va favoriza pe făptuitor, chiar dacă, ulterior, promisiunea nu este îndeplinită",
+        "romana": "tovarăș de rele"
+    },
+    {
+        "keyword": "CONFLICT DE COMPETENȚĂ",
+        "legaleza": "situație apărută atunci când două sau mai multe organe judiciare sunt competente în a soluționa o cauză (conflict pozitiv) sau atunci când două sau mai multe organe judiciare sunt necompetente să o soluționeze (conflict negativ)",
+        "romana": "ia să vedem, ai dreptul să judeci tu chestiunea asta?, sau altă instanță?"
+    },
+    {
+        "keyword": "CONFLICTUL DE LEGE",
+        "legaleza": "situaţia în care un raport juridic devine susceptibil de a i se aplica două legi aparţinând, de regulă, unor sisteme de drept din state diferite.",
+        "romana": "ia să vedem, care-i legea aplicabilă?"
+    },
+    {
+        "keyword": "CONTROL JUDICIAR",
+        "legaleza": "măsura preventivă neprivativă de libertate, în cadrul căreia inculpatul se bucură de libertatea fizică, dar este supus, prin instituirea unui ansamblu de obligaţii şi interdicţii, unui control al autorităţii judiciare",
+        "romana": "liber, da’ ținut din scurt"
+    },
+    {
+        "keyword": "CONTESTAȚIE",
+        "legaleza": "mijloc procedural prin intermediul căruia partea interesată solicită organelor de jurisdicţie competente desfiinţarea hotărârilor sau măsurilor luate de anumite autorităţi sau instituţii",
+        "romana": "nu-s de acord, nu-mi place așa!"
+    },
+    {
+        "keyword": "CONTESTAȚIE LA EXECUTARE",
+        "legaleza": "mijloc procedural special prin care persoana interesată sau care a fost vătămată prin executare poate obţine desfiinţarea actelor de executare",
+        "romana": "nu-s de acord, nu-mi place cum se-ntâmplă!"
+    },
+    {
+        "keyword": "CONTESTAȚIE ÎN ANULARE",
+        "legaleza": "cale extraordinară de atac prin care partea interesată solicită, în cazurile prevăzute de lege, instanţei competente să retracteze o hotărâre irevocabilă",
+        "romana": "nu-s de acord, n-a fost bine, ia-o-napoi!"
+    },
+    {
+        "keyword": "CONDAMNARE (CU EXECUTARE sau CU SUSPENDARE)",
+        "legaleza": "soluţie pe care o pronunţă instanţa de judecată printr-o hotărâre judecătorească şi care constă în aplicarea unei pedepse; executarea condamnării poate fi suspendată pe un anumit termen şi sub anumite condiţii",
+        "romana": "nota de plată pe care ți-o dă judecătorul pentru ce-ai făcut"
+    },
+    {
+        "keyword": "CONFISCARE",
+        "legaleza": "trecere gratuită (ca măsură de siguranță sau ca sancțiune) în patrimoniul statului, în temeiul unei hotărâri judecătorești, a unui bun sau a tuturor bunurilor aparținând unei persoane",
+        "romana": "ți-am luat și capra, și varza, pe care i le-ai furat vecinului"
+    },
+    {
+        "keyword": "CONFISCARE EXTINSĂ",
+        "legaleza": "măsură ce vizează alte bunuri decât cele care au legătură cu o infracțiune specifică, cu privire la care instanța are convingerea că provin din activități infracționale distincte de cele care formează obiectul cauzei penale",
+        "romana": "ți-am luat și varza, și capra care-o ținea în gură, că amândouă erau ale lupului cu care te-ai înhăitat"
+    },
+    {
+        "keyword": "CRIMINALISTICĂ",
+        "legaleza": "ştiinţa care studiază metodele, mijloacele tehnice şi procedeele tactice destinate descoperirii, cercetării infracţiunilor, identificării persoanelor implicate în săvârşirea lor şi prevenirii faptelor antisociale",
+        "romana": "CSI: New York, Miami, București"
+    },
+    {
+        "keyword": "CRIMINOLOGIE",
+        "legaleza": "ştiinţă care studiază starea, dinamica şi cauzele criminalităţii în scopul elaborării măsurilor de prevenire şi combatere a acesteia",
+        "romana": "tot un fel de sociologi, da’ mai ciudați"
+    },
+    {
+        "keyword": "CONEXARE",
+        "legaleza": "unirea a două sau mai multe cauze, legate între ele prin interesul general al unei bune administrări a justiţiei în faţa aceleiaşi instanţe, pentru a fi soluţionate împreună",
+        "romana": "dacă-s la fel, le judecăm deodată"
+    },
+    {
+        "keyword": "CONFLICT DE INTERESE",
+        "legaleza": "un funcționar public este în conflict de interese atunci când, în virtutea funcției publice pe care o ocupă ia o decizie sau participă la luarea unei decizii cu privire la care are și un interes personal",
+        "romana": "și-n căruță și-n teleguță nu se poate!"
+    },
+    {
+        "keyword": "CONSULTARE PUBLICĂ",
+        "legaleza": "dialog între cetățeni și o autoritate publică, în legătură cu un proiect de hotărâre, decizie sau de act normativ de interes pentru întreaga comunitate",
+        "romana": "un fel de masă rotundă, da’ fără pișcoturi"
+    },
+    {
+        "keyword": "CONTENCIOS ADMINISTRATIV",
+        "legaleza": "ansamblul mijloacelor juridice utilizate de orice persoană interesată în soluţionarea pe cale jurisdicţională a litigiilor administrative",
+        "romana": "când te iei la trântă cu o instituție publică"
+    },
+    {
+        "keyword": "CONTRAVENIENT",
+        "legaleza": "persoană fizică sau juridică vinovată de săvârșirea unei contravenții",
+        "romana": "nu chiar certat cu legea, că încă-și mai vorbesc, așa, peste umăr :P"
+    },
+    {
+        "keyword": "CONTRAVENȚIE",
+        "legaleza": "faptă de un pericol social mai redus decât infracțiunea, săvârșită cu vinovăție și prevăzută de legile speciale civile",
+        "romana": "greșeală pentru care, foarte probabil, o să-ți iei o amendă"
+    },
+    {
+        "keyword": "CORUPȚIE",
+        "legaleza": "abuzul puterii (de decizie) încredințate, cu scopul de a obține un beneficiu personal (pentru sine sau pentru altul); definiția cuprinde infracțiunile de dare și luare de mită, cumpărare și trafic de influență, foloase necuvenite, respectiv mai multe forme de abuz în serviciu și conflict de interse",
+        "romana": "când șpăgarul îți cere de la obraz; când primește șpaga, chiar dacă n-a cerut-o; când ia o șpagă că știe pe cineva care te rezolvă; când își trage singur șpaga, dintr-un conflict de interese"
+    },
+    {
+        "keyword": "CREANȚĂ",
+        "legaleza": "dreptul creditorului de a pretinde de la debitorul său să dea, să facă sau să nu facă ceva",
+        "romana": "dreptul de-a încasa o datorie"
+    },
+    {
+        "keyword": "CREDIT",
+        "legaleza": "creanţă în cadrul unui raport juridic civil de obligații",
+        "romana": "ca la telefon, ai de unde lua sau consuma, da’ pe bază de contract"
+    },
+    {
+        "keyword": "CREDITOR",
+        "legaleza": "persoană fizică sau juridică titulară a unui drept de creanță (care a dat bani cu împrumut sau care are de primit o datorie de orice natură)",
+        "romana": "cel de la care ai luat pe datorie"
+    },
+    {
+        "keyword": "CULPĂ",
+        "legaleza": "formă a vinovăției, mai puțin gravă decât intenția, și care presupune că făptuitorul nu a prevăzut rezultatul faptei sale deși trebuia, sau putea să îl prevadă",
+        "romana": "ups, nu mi-am dat seama!"
+    },
+    {
+        "keyword": "CUMPĂRARE DE INFLUENȚĂ",
+        "legaleza": "promisiunea, oferirea sau darea de bani ori alte foloase, pentru sine sau pentru altul, direct ori indirect, unei persoane care are influenţă sau lasă să se creadă că are influenţă asupra unui funcţionar public, pentru a-l determina pe acesta din urmă să îndeplinească, să nu îndeplinească, să urgenteze ori să întârzie îndeplinirea unui act ce intră în îndatoririle sale de serviciu sau să îndeplinească un act contrar acestor îndatoriri",
+        "romana": "când îi dai capra lupului, că ție-ți treb’e varza vecinului"
+    },
+    {
+        "keyword": "CURTE DE APEL",
+        "legaleza": "instanţă cu personalitate juridică, în circumscripţia căreia funcţionează mai multe tribunale şi tribunale specializate",
+        "romana": "fiică de curte supremă, mamă de tribunal, bunică de judecătorie"
+    },
+    {
+        "keyword": "CURTE SUPREMĂ",
+        "legaleza": "actuala Înaltă Curte de Casaţie şi Justiţie",
+        "romana": "Mam’mare, Mamițica și tanti Mița a instanțelor, într-una singură"
+    },
+    {
+        "keyword": "CURTE DE\n CASAȚIE",
+        "legaleza": "instanţa judecătorească unică şi supremă ce are rolul de a sigura interpretarea şi aplicarea unitară a legii de către celelalte instanţe judecătoreşti",
+        "romana": "doar Mam’mare a instanțelor"
+    },
+    {
+        "keyword": "CURATELĂ",
+        "legaleza": "instituţie juridică prin care se realizează ocrotirea unor persoane fizice care, aflându-se în anumite situaţii speciale prevăzute de lege şi care nu sunt în măsură să-şi exercite drepturile şi să-şi apere interesele",
+        "romana": "când iei pe cineva în grijă"
+    },
+    {
+        "keyword": "CURATOR",
+        "legaleza": "persoană căreia i s-a încredinţat ocrotirea unei persoane aflate într-o situație specială",
+        "romana": "cel care ia pe cineva în grijă"
+    },
+    {
+        "keyword": "CUSTODIE",
+        "legaleza": "păstrare sau pază temporară a unor obiecte puse sub sechestru",
+        "romana": "când iei ceva în grijă"
+    },
+    {
+        "keyword": "CUSTODE",
+        "legaleza": "persoană căreia i s-a încredinţat paza şi conservarea temporară a unor bunuri mobile asupra cărora s-au dispus măsuri asiguratorii",
+        "romana": "cel care ia ceva în grijă"
+    },
+    {
+        "keyword": "DEBIT",
+        "legaleza": "datorie pe care o are o persoană (debitor) la o altă persoană (creditor)",
+        "romana": "datorie"
+    },
+    {
+        "keyword": "DEBITOR",
+        "legaleza": "persoană fizică sau juridică care datorează creditorului mărfuri, sume de bani sau alte bunuri",
+        "romana": "datornic"
+    },
+    {
+        "keyword": "DECLINARE DE COMPETENȚĂ",
+        "legaleza": "trimiterea unei cauze, de către instanţa de judecată sau organul de urmărire penală, atunci când constată că nu este competent să o soluţioneze, altei instanţe de judecată sau altui organ de urmărire penală, considerat competent",
+        "romana": "p-asta trebuie s-o rezolvi tu, nu eu!"
+    },
+    {
+        "keyword": "DECIZIE",
+        "legaleza": "hotărâre prin care se soluţionează apelul, recursul, recursul în anulare, precum şi hotărârea pronunţată de instanţa de recurs în judecarea cauzei după casare",
+        "romana": "am zis, asta e!"
+    },
+    {
+        "keyword": "DEZLEGAREA UNEI CHESTIUNI DE DREPT",
+        "legaleza": "prerogativă aparţinând Înaltei Curţi de Casaţie şi Justiţie în scopul aplicării uniforme a legii de către celalalte instanţe din România",
+        "romana": "dacă nu vă înțelegeți, las că face Mamițica lumină!"
+    },
+    {
+        "keyword": "DENUNȚ",
+        "legaleza": "încunoștințarea făcută în fața organelor prevăzute de lege de către o persoană fizică sau juridică despre săvârșirea unei infracțiuni",
+        "romana": "când „ciripește” careva sau e unul supărat rău pe tovarăși"
+    },
+    {
+        "keyword": "DISJUNGERE",
+        "legaleza": "operațiunea prin care o parte a unei cauze se desparte de restul ei, pentru a fi judecată separat, fie ca sancțiune procedurală a depunerii ei peste termen, fie ca o necesitate rezultată din mersul dezbaterilor",
+        "romana": "cum se mănâncă un elefant?—bucățică cu bucățică ;)"
+    },
+    {
+        "keyword": "DISPOZIȚIE",
+        "legaleza": "prevedere obligatorie cuprinsă într-un act normativ; măsură luată de un organ ierarhic superior, obligatorie pentru organul ierarhic inferior căruia îi este comunicată",
+        "romana": "așa să faci, că de nu, jar mănânci!"
+    },
+    {
+        "keyword": "DOBÂNDĂ",
+        "legaleza": "sumă de bani sau orice altă prestaţie, sub orice titlu sau denumire, la care debitorul se obligă drept echivalent al folosinţei capitalului",
+        "romana": "prețul banilor"
+    },
+    {
+        "keyword": "DOL",
+        "legaleza": "formă a viciului de consimțământ care constă în existenţa unor mijloace viclene, frauduloase, folosite de una dintre părţile raportului juridic, pentru a o determina pe cealalta să fie de acord cu semnarea contractului, sau a oricărui act juridic civil",
+        "romana": "vrăjeală, înșelăciune"
+    },
+    {
+        "keyword": "DOMENIUL PUBLIC",
+        "legaleza": "totalitatea bunurilor imobile şi mobile de interes general sau local, prevăzute de lege, asupra cărora statul şi/sau unităţile administrativ-teritoriale exercită atributele dreptului de proprietate publică",
+        "romana": "„a’ meu, a’ meu, a’ meu,” zice statul, „da’ ce păcat, nu pot să-l beu”"
+    },
+    {
+        "keyword": "DOMENIUL PRIVAT AL STATULUI",
+        "legaleza": "totalitatea bunurilor mobile şi imobile intrate în proprietatea unităţilor administrativ-teritoriale prin modalităţile prevăzute de lege, având un rol important în realizarea veniturilor administraţiei",
+        "romana": "„a’ meu, a’ meu și pot să-l beu” :P"
+    },
+    {
+        "keyword": "DOSAR",
+        "legaleza": "totalitatea înscrisurilor privitoare la un litigiu, existente la un anumit moment al activităţii procesuale, reunite în ordinea întocmirii sau administrării lor, într-o îmbrăcăminte din carton",
+        "romana": "cu șină, plic, tot coșmar"
+    },
+    {
+        "keyword": "DREPT DE PREEMPȚIUNE",
+        "legaleza": "drept de care se bucură cineva printr-un contract sau printr-o lege, de a fi preferat dintre mai mulți cumpărători",
+        "romana": "un fel de premiant—cine n-ar vrea să fie tot timpul primul, eh?"
+    },
+    {
+        "keyword": "DREPT DE PROPRIETATE",
+        "legaleza": "drept fundamental al omului ce permite acestuia să posede, să folosească și să dispună de un lucru",
+        "romana": "dacă-i al meu, fac ce vreau cu el!"
+    },
+    {
+        "keyword": "DURATĂ",
+        "legaleza": "perioada de timp scursă de la înregistrarea unui dosar până la pronunțarea unei soluții",
+        "romana": "zile, săptămâni, luni"
+    },
+    {
+        "keyword": "EREDE",
+        "legaleza": "moştenitor",
+        "romana": "urmaș"
+    },
+    {
+        "keyword": "EROARE",
+        "legaleza": "falsa reprezentare a realităţii la încheierea unui act juridic civil",
+        "romana": "ai greșit, nu ți-ai dat seama"
+    },
+    {
+        "keyword": "EXCES JUSTIFICAT",
+        "legaleza": "excesul de apărare, depăşirea limitelor unei apărari proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul, din cauza tulburării sau temerii sub imperiul căreia s-a aflat cel ce a săvârşit fapta pentru a înlatura atacul, constituind o cauză de imputabilitate",
+        "romana": "te-ai cam întins, da’ nu-i prea grav"
+    },
+    {
+        "keyword": "EXCES SCUZABIL",
+        "legaleza": "depăşirea limitelor legitimei apărari, atunci cand nu este cauzată de tulburare sau temere, fiind o cauză legală atenuantă",
+        "romana": "chiar te-ai întins, deci tot vei primi pedeapsă, da’ te-nțeleg, n-aveai ce altceva să faci"
+    },
+    {
+        "keyword": "EXECUTARE A PEDEPSELOR",
+        "legaleza": "punerea în aplicare a dispoziţiilor conţinute în hotărârea instanţei",
+        "romana": "cum te duce când te ia"
+    },
+    {
+        "keyword": "EXECUTARE SILITĂ",
+        "legaleza": "procedură legală prin intermediul căreia titularul unui drept subiectiv, recunoscut printr-un titlu executoriu, constrânge, cu ajutorul organelor competente, pe cel care nesocoteşte dreptul respectiv, să aducă la îndeplinire prestaţia specificată în titlu, asigurându-se astfel respectarea dreptului iniţial încălcat",
+        "romana": "dacă nu mi-ai dat de bună voie, iaca, te strâng cu ușa"
+    },
+    {
+        "keyword": "EXECUTOR JUDECĂTORESC",
+        "legaleza": "organ învestit cu autoritatea de stat pentru a îndeplini actele de procedură şi a lua măsurile legale în vederea asigurării executării silite a hotărârilor judecătoreşti şi a altor titluri executorii",
+        "romana": "dacă treb’e, te strânge cu ușa"
+    },
+    {
+        "keyword": "EXIGIBIL",
+        "legaleza": "calitate a unei creanţe sau a unei obligaţii de a i se putea pretinde executarea",
+        "romana": "care se poate executa"
+    },
+    {
+        "keyword": "EXPERT",
+        "legaleza": "persoană competentă într-un anumit domeniu de specialitate, îndreptăţită, potrivit legii, să participe la efectuarea expertizelor dispuse de organele judiciare",
+        "romana": "om bazat, se pricepe"
+    },
+    {
+        "keyword": "FĂPTUITOR",
+        "legaleza": "persoana față de care nu s-a început urmărirea penală, fiind doar o persoană cu privire la care există doar bănuiala comiterii unei infracțiuni, atâta timp cât nu s-a efectuat nici un act de procedură, în etapa actelor premergătoare",
+        "romana": "ceva mai mult decât suspect, nu chiar învinuit încă"
+    },
+    {
+        "keyword": "FLAGRANT",
+        "legaleza": "(prins) în timpul comiterii infracţiunii",
+        "romana": "(prins) cu mâța-n sac"
+    },
+    {
+        "keyword": "FOLOASE NECUVENITE",
+        "legaleza": "primirea de către un funcţionar, direct sau indirect, de bani ori alte foloase, după ce a îndeplinit un act în virtutea funcţiei sale şi la care era obligat în temeiul acesteia",
+        "romana": "ai făcut ceva (corect/legal) să meriți asta?"
+    },
+    {
+        "keyword": "FOND",
+        "legaleza": "un litigiu aflat în stare de judecată în care părtile au dreptul să aducă dovezi pentru a sprijini cererile, sustinerile facute în faţa instanţei, in dovedirea lor. Fondul unei cauze de regulă se judecă în primă instanţă, care poate fi, după caz Judecătoria sau Tribunalul sau altă instanţă în funcţie de natura juridică a cauzei",
+        "romana": "când se judecă prima dată"
+    },
+    {
+        "keyword": "FORȚĂ MAJORĂ",
+        "legaleza": "împrejurare de origine externă, cu caracter excepţional, care este absolut imprevizibilă şi inevitabilă",
+        "romana": "nici nu mi-am imaginat, da’ uite că m-a forțat"
+    },
+    {
+        "keyword": "FUNGIBIL",
+        "legaleza": "bun care, fiind determinat prin caractere generice este susceptibil de înlocuire cu altul de acelaşi fel, în executarea unei obligaţii",
+        "romana": "schimbabil, ca una de 100 pe două de 50"
+    },
+    {
+        "keyword": "GAJ",
+        "legaleza": "contract accesoriu în temeiul căruia debitorul sau o terță persoană remite creditorului sau unui terț, un bun mobil, corporal sau incorporal, în vederea garantării executării unei obligații",
+        "romana": "garanție"
+    },
+    {
+        "keyword": "GRAȚIERE",
+        "legaleza": "măsură de clemență acordată individual de Președintele României, prin decret, sau colectiv de către Parlament, prin lege; constă fie în iertarea condamnatului de executarea pedepsei, în tot sau în parte, fie în comutarea pedepsei într-una mai ușoară",
+        "romana": "o formă de iertare a pedepsei"
+    },
+    {
+        "keyword": "GREFĂ",
+        "legaleza": "serviciu auxiliar alături de registratură, arhivă şi bibliotecă, ce funcţionează pe langă toate instanţele judecătoreşti şi parchete",
+        "romana": "matca grefierilor"
+    },
+    {
+        "keyword": "GREFIER",
+        "legaleza": "funcţionar auxiliar al instanţei, căruia îi revine sarcina de a îndeplini anumite activităţi administrative, cu atribuţii privitoare la întocmirea actelor de procedură şi, în limitele funcţiei sale, şi alte sarcini ce-i sunt încredinţate de conducerea instanţei",
+        "romana": "funcționar specializat al instanței"
+    },
+    {
+        "keyword": "HOTĂRÂRE",
+        "legaleza": "act adoptat de organele de stat, instanţele de judecată, sau alte organe cu aprobarea majorităţii membrilor prezenţi",
+        "romana": "am decis, asta e!"
+    },
+    {
+        "keyword": "IERARHIA LEGILOR",
+        "legaleza": "ordinea legilor după forţa lor juridică:\n - Constituția, legea supremă în România\n - legile organice, care reglementează domeniile de importanță majoră pentru stat\n - legile ordinare reglementează toate celelalte domenii care nu sunt acoperite de legea organică\n - ordonanțe ale Guvernului, care se emit pe baza unei delegări legislative şi în cazuri speciale\n - hotărârile Guvernului, care stabilesc modul în care legile vor fi puse în aplicare\n - acte normative emise de administrația publică centrală\n - acte ale autorităților administrative autonome\n - acte normative emise de autoritățile administrației publice locale",
+        "romana": "oglindă, oglinjoară, care-i cea mai cea lege din țară?"
+    },
+    {
+        "keyword": "IMPRESCRIPTIBIL",
+        "legaleza": "calitate a unui drept sau a unei acțiuni de a se putea exercita sau invoca oricând, indiferent de perioada de timp care a trecut de la nașterea dreptului",
+        "romana": "nemuritor, gen (dar numai despre drepturi, nu și despre oameni)"
+    },
+    {
+        "keyword": "IMUNITATE",
+        "legaleza": "ansamblu de drepturi sau de privilegii de care se bucură unele categorii de persoane",
+        "romana": "nimic nu te-atinge, nimic nu te strică, ești tefal, frate!"
+    },
+    {
+        "keyword": "INALIENABIL",
+        "legaleza": "nu poate fi înstrăinat prin acte juridice de drept civil",
+        "romana": "nimeni nu ți-l poate lua, indiferent ce-ar face"
+    },
+    {
+        "keyword": "INCULPAT",
+        "legaleza": "calitate pe care o primește cel care a săvârșit infracțiunea prin punerea în mișcare a acțiunii penale, devenind parte în proces, cu absolut toate consecințele legate de această calitate (drepturi și obligații procesuale)",
+        "romana": "învinuitul deja trimis în judecată"
+    },
+    {
+        "keyword": "INCOMPATIBILITATE",
+        "legaleza": "împrejurare în care se află judecătorul, procurorul, grefierul sau expertul și care îl împiedică, fiindu-i interzis prin lege să asiste la judecarea cauzei (de exemplu, judecătorul care a pronunțat o hotărâre într-o cauză nu poate lua parte la judecata aceleiași cauze în apel sau în recurs și nici în caz de rejudecare după casare)",
+        "romana": "și-n căruță și-n teleguță nu se poate!"
+    },
+    {
+        "keyword": "INDIVIDUALIZAREA PEDEPSELOR",
+        "legaleza": "principiu al răspunderii penale care constă în aceea că pedeapsa care se aplică pentru o infracţiune săvârşită în concret trebuie să fie corespunzătoare nivelului de periculozitate socială pe care aceasta îl prezintă",
+        "romana": "după faptă, și răsplată!"
+    },
+    {
+        "keyword": "INDICE DE ATACABILITATE",
+        "legaleza": "proporția de hotărâri atacate din numărul de hotărâri soluționate",
+        "romana": "ia să vedem, ți-ai făcut bine treaba?"
+    },
+    {
+        "keyword": "INDICE DE CASARE (sau DESFIINȚARE)",
+        "legaleza": "proporția de hotărâri casate/desființate din numărul de hotărâri atacate",
+        "romana": "aoleu, pe-astea le-am greșit!"
+    },
+    {
+        "keyword": "INDICE DE ÎNCĂRCARE",
+        "legaleza": "numărul de dosare aferent fiecărui judecător din cadrul unei instanțe, împărțit la mediana încărcăturii aferente schemei maximale de judecători alocați la nivelul acelei instanțe",
+        "romana": "of, cât am de muncă!"
+    },
+    {
+        "keyword": "INDICE DE OPERATIVITATE",
+        "legaleza": "numărul de dosare soluționate de instanță împărțit la numărul de dosare aflate pe stocul instanței",
+        "romana": "cât de bine merge treaba"
+    },
+    {
+        "keyword": "INDICE DE PERFORMANȚĂ",
+        "legaleza": "indice compozit, calculat pe baza indicilor de operativitate, de încărcare și de siguranță, în valori normalizate statistic, raportate la alte elemente care pot influența performanța unei instanțe, cum ar fi numărul de judecători, populația deservită și durata proceselor",
+        "romana": "cât de bine merge o instanță"
+    },
+    {
+        "keyword": "INDICE DE SIGURANȚĂ (sau „predictibilitate”)",
+        "legaleza": "raportul dintre cauzele rezolvate și cauzele casate, relativ la durata medie de pronunțare a unei decizii pe fond",
+        "romana": "cât de sigur sunt că hotărârea rămâne în picioare, chiar dacă este atacată la instanța superioară"
+    },
+    {
+        "keyword": "INFRACTOR",
+        "legaleza": "persoană care a săvârşit în calitate de autor, instigator sau complice o faptă prevăzută de legea penală",
+        "romana": "certat cu legea rău de tot"
+    },
+    {
+        "keyword": "INFRACȚIUNE",
+        "legaleza": "fapta care prezintă pericol social, săvârșită cu vinovăție și prevăzută de legea penală",
+        "romana": "când ai încălcat legea penală"
+    },
+    {
+        "keyword": "INFRACȚIUNE FLAGRANTĂ",
+        "legaleza": "infracțiunea descoperită în momentul săvârșirii sau imediat după săvârșire",
+        "romana": "când te-au prins/văzut cu mâța-n sac, încălcând legea penală"
+    },
+    {
+        "keyword": "INFRACȚIUNE CONTINUĂ",
+        "legaleza": "infracțiunea care se prelungește în timp în mod natural după momentul consumării ei",
+        "romana": "când nu-ți mai ajunge să tot încalci legea penală"
+    },
+    {
+        "keyword": "INFRACȚIUNE CONTINUATĂ",
+        "legaleza": "săvârşirea la diferite intervale de timp, dar în realizarea aceleiaşi rezoluţii, unor acţiuni sau inacţiuni care prezintă, fiecare în parte, conţinutul aceleiaşi infracţiuni",
+        "romana": "așa mult îți place, că tot încalci legea penală"
+    },
+    {
+        "keyword": "INSESIZABIL",
+        "legaleza": "nu poate fi urmărit de creditorii titularului unui drept",
+        "romana": "sîc, că nu mi-l poți lua!"
+    },
+    {
+        "keyword": "INSTANȚĂ",
+        "legaleza": "organ de stat însărcinat cu soluţionarea litigiilor dintre persoane fizice sau dintre acestea şi persoanele juridice",
+        "romana": "locul de judecată"
+    },
+    {
+        "keyword": "INSTIGATOR",
+        "legaleza": "persoana care cu intenție, determină pe o altă persoană să săvârșească o faptă prevăzută de legea penală",
+        "romana": "combinator, băgător de fitile, idei, zâzanie"
+    },
+    {
+        "keyword": "INTENȚIE",
+        "legaleza": "formă a vinovăției care presupune că făptuitorul a prevăzut rezultatul faptei sale și a acceptat producerea lui",
+        "romana": "da, dom'e, așa am vrut io!"
+    },
+    {
+        "keyword": "INTERZIS JUDECĂTORESC",
+        "legaleza": "persoana care nu are discernământul necesar pentru a se îngriji de interesele sale, din cauza alienaţiei ori debilităţii mintale",
+        "romana": "n-are voie, așa a zis judecătorul"
+    },
+    {
+        "keyword": "IPOTECĂ (IMOBILIARĂ)",
+        "legaleza": "garanţie imobiliară care constă într-un drept real, accesoriu al creditorului, constituit asupra bunurilor imobile apartinând debitorului sau ale altei persoane, care are obligaţia unei plăţi la scadenţă",
+        "romana": "când pui garanție un teren sau o casă"
+    },
+    {
+        "keyword": "IRESPONSABILITATE",
+        "legaleza": "starea de incapacitate psiho-fizică a unei persoane care nu poate să-și dea seama de semnificația socială a acțiunilor sau inacțiunilor sale ori nu poate fi stăpână pe ele",
+        "romana": "nu-nțelege, nu-și dă seama pe ce lume trăiește"
+    },
+    {
+        "keyword": "ÎMPĂCAREA PĂRȚILOR",
+        "legaleza": "cauza care înlătură răspunderea penală ce se realizează între subiecţii procesuali principali astfel cum sunt stabiliţi de NCPP, respectiv suspectul si persoana vatamată",
+        "romana": "totu’-i bine când se termină cu bine"
+    },
+    {
+        "keyword": "ÎNVINUIT",
+        "legaleza": "persoana față de care s-a început urmărirea penală, dar mai înainte de punerea în mișcare a acțiunii penale, față de care pot fi administrate probe și pot fi luate măsuri procesuale. Un învinuit poate fi reținut de organul de cercetare penală pe o durată de cel mult 24 de ore",
+        "romana": "făptuitorul, chiar înainte de-a deveni inculpat"
+    },
+    {
+        "keyword": "ÎNCHEIERE",
+        "legaleza": "hotărîre judecătorească prin care instanţa rezolvă chestiunile care se ridică în cursul judecăţii, fără să soluţioneze fondul cauzei sau fără să se dezinvestească",
+        "romana": "hotărâri intermediare ale judecătorului"
+    },
+    {
+        "keyword": "ÎNSCRIS",
+        "legaleza": "mijloc legal de dovadă, constând în orice act sau document scris pe hârtie, prin care se atestă existenţa unui act juridic sau a unui fapt juridic, ori o anumită împrejurare sau situaţie privitoare la un asemenea act",
+        "romana": "act, hârtie, document"
+    },
+    {
+        "keyword": "JUDECATĂ ÎN APEL",
+        "legaleza": "reprezintă a doua etapă a fazei procesuale a judecății după judecarea în primă instanță și înaintea judecării în recurs, în care instanța de apel, superioară în grad, verifică legalitatea și temeinicia sentinței pronunțate în primă instanță pe baza materialelor din dosarul cauzei și a oricăror probe noi ce i se aduc",
+        "romana": "procesul prin care vrei să dovedești c-ai fost nedreptățit la judecata pe fond"
+    },
+    {
+        "keyword": "JUDECATĂ ÎN FOND",
+        "legaleza": "sau judecata în primă instanță este prima etapă procesuală și cunoaște trei faze: faza scrisă pregătitoare (cererea de chemare în judecată, întâmpinarea și cererea reconvențională, fixarea primului termen etc.), faza judecății propriu-zise și pronunțarea sentinței",
+        "romana": "procesul din prima instanță, când dai piept prima oară cu justiția"
+    },
+    {
+        "keyword": "JUDECĂTOR",
+        "legaleza": "magistratul care are atribuţii de a soluţiona cauze penale, civile şi administrative în cadrul unei instanţe judecătoreşti",
+        "romana": "magistratul care judecă"
+    },
+    {
+        "keyword": "JUDECĂTOR DE DREPTURI ȘI LIBERTĂȚI",
+        "legaleza": "judecătorul care, în cadrul instanţei, potrivit competenţei acesteia, soluţionează, în cursul urmăririi penale, cererile, propunerile, plângerile, contestaţiile sau orice alte sesizări privind: măsurile preventive; măsurile asigurătorii; măsurile de siguranţă cu caracter provizoriu; actele procurorului, în cazurile expres prevăzute de lege; încuviinţarea percheziţiilor, a folosirii metodelor şi tehnicilor speciale de supraveghere sau cercetare ori a altor procedee probatorii potrivit legii; procedura audierii anticipate; alte situaţii expres prevăzute de lege",
+        "romana": "judecătorul care face instrucție cu procurorii ;)"
+    },
+    {
+        "keyword": "JUDECĂTORIE",
+        "legaleza": "instituție judecatorească având competența de a soluționa (în primă sau în ultimă instanță) anumite pricini prevăzute de lege",
+        "romana": "instanță de fond (păcat că nu-i fondantă)"
+    },
+    {
+        "keyword": "JUSTIȚIE",
+        "legaleza": "totalitatea instanţelor judecătoreşti dintr-un anumit stat",
+        "romana": "ori facem dreptate, ori nu mai facem :P"
+    },
+    {
+        "keyword": "LIBER ACCES LA JUSTIȚIE",
+        "legaleza": "principiu fundamental al organizării oricărui sistem judiciar democratic şi care îi conferă oricărei persoane dreptul de a se adresa în mod efectiv instanţelor judiciare competente, împotriva actelor care violează drepturile ce îi sunt recunoscute prin Constituţie sau prin lege",
+        "romana": "sunt cetățean român și am drepturi!"
+    },
+    {
+        "keyword": "LIBERARE CONDIȚIONATĂ",
+        "legaleza": "măsură luată de instanță privind eliberarea unui condamnat înainte de executarea în întregime a pedepsei, dacă acesta îndeplinește anumite condiții prevăzute de lege",
+        "romana": "dacă ești cuminte, scapi mai repede"
+    },
+    {
+        "keyword": "LEGAT",
+        "legaleza": "act juridic cu titlu gratuit, cuprins într-un testament, prin care testatorul dispune pentru cauză de moarte, de bunurile sale",
+        "romana": "moștenire, testament"
+    },
+    {
+        "keyword": "LEGITIMĂ APĂRARE",
+        "legaleza": "cauză de nepedepsire ce presupune săvârșirea infracțiunii pentru a înlătura un atac material, direct, imediat și injust, îndreptat împotriva făptuitorului, a altuia sau împotriva unui interes public și care pune în pericol grav persoana sau drepturile celui atacat ori interesul public",
+        "romana": "situație cu care „te scoți,” să te ierte de faptă și pedeapsă"
+    },
+    {
+        "keyword": "MĂSURI ASIGURĂTORII",
+        "legaleza": "măsuri de indisponibilizare şi conservare de natură să împiedice partea adversă ca, în timpul procesului, să distrugă ori să înstrăineze bunurile ce formează obiectul litigiului (în cazul acţiunilor reale) ori, după caz, să îşi diminueze activul patrimonial (în cazul acţiunilor personale)",
+        "romana": "ia să mă asigur io că ai cu ce plăti"
+    },
+    {
+        "keyword": "MĂSURI DE SIGURANȚĂ",
+        "legaleza": "sancţiuni de drept penal cu caracter exclusiv preventiv care au ca scop înlăturarea unei stări care a generat comiterea unei infracţiuni şi preîntâmpinarea repetării săvârşirii faptelor prevăzute de legea penală",
+        "romana": "paza bună trece primejdia rea"
+    },
+    {
+        "keyword": "MAGISTRAT",
+        "legaleza": "denumirea acordată de lege judecătorilor și procurorilor. Au calitatea de magistrat și fac parte din corpul magistraților, judecătorii de la toate instanțele judecatorești, procurorii din cadrul parchetelor de pe lângă acestea precum și magistrații asistenți ai Înaltei Curți de Casație și Justiție",
+        "romana": "judecător sau procuror"
+    },
+    {
+        "keyword": "MANDAT",
+        "legaleza": "contractul în temeiul căruia o persoană, numită mandant, împuternicește pe o altă persoană, numită mandatar, să încheie în numele ei și pentru ea anumite acte juridice",
+        "romana": "reprezentare, procură"
+    },
+    {
+        "keyword": "MANDAT DE ADUCERE",
+        "legaleza": "mijloc procedural constând într-un ordin dat de organul de urmărire penală sau de instanţa de judecată prin care se realizează aducerea în faţa acestora a unei persoane, a cărei ascultare sau prezenţă este necesară, dacă această persoană, fiind anterior chemată prin citaţie, nu s-a prezentat",
+        "romana": "când judecătorul pune potera pe tine"
+    },
+    {
+        "keyword": "MANDAT DE ARESTARE",
+        "legaleza": "decizie juridică pentru arestarea unei persoane date în urmărire penală sau pentru executarea unei sancțiuni privative de libertate",
+        "romana": "luați-l!"
+    },
+    {
+        "keyword": "MARTOR",
+        "legaleza": "persoana care are cunoștință despre vreo faptă sau despre vreo împrejurare de natură să servească la aflarea adevărului în cadrul procesului",
+        "romana": "știe, dom'le, a văzut cu ochii lui!"
+    },
+    {
+        "keyword": "MEDICINĂ LEGALĂ",
+        "legaleza": "specialitate (disciplină) medicală care, utilizând cunoştinţele şi metodele medico-biologice pentru a afla şi demonstra un adevăr material, se pune în slujba justiţiei prin probe ştiinţifice necesare desfăşurării procesului judiciar",
+        "romana": "nu e House, e Bones ;)"
+    },
+    {
+        "keyword": "MITĂ",
+        "legaleza": "sumă de bani sau obiecte primite, date ori promise unei persoane, cu scopul de a o determina să-și încalce obligațiile de serviciu sau să le îndeplinească mai conștiincios",
+        "romana": "șpagă, ciubuc, ia-ți și tu ceva frumos, da fii atent că stă DNA-ul cu ochii pe tine"
+    },
+    {
+        "keyword": "MUNCĂ ÎN FOLOSUL COMUNITĂȚII",
+        "legaleza": "modalitate de plată, prin zile de muncă, a contravalorii unor pedepse care pot fi exprimate în bani, iar nicio altă formă de pedeapsă (mai aspră) nu este necesară pentru îndreptarea comportamentului sancționat",
+        "romana": "muncă neplătită, da' te scapă de mititica"
+    },
+    {
+        "keyword": "NEGLIJENȚĂ",
+        "legaleza": "atitudine sau tip de culpă ce apare atunci când făptuitorul nu îşi dă seama de caracterul antisocial al faptei şi nu prevede consecinţele acesteia, deşi trebuia şi putea, în circumstanţele date, să le prevadă",
+        "romana": "ai greșit, da’ nici n-ai fost atent"
+    },
+    {
+        "keyword": "NEPATRIMONIAL",
+        "legaleza": "drept subiectiv strâns legat de persoana titularului care, fiind lipsit de un conţinut economic, nu este susceptibil de evaluare bănească şi nu face parte din patrimoniul acelei persoane",
+        "romana": "care n-are legătură cu banii"
+    },
+    {
+        "keyword": "NERETROACTIVITATEA LEGII PENALE",
+        "legaleza": "principiu potrivit căruia legea penală nu se aplică faptelor care, la data când au fost săvârșite nu erau prevăzute ca infracțiuni",
+        "romana": "dacă nu era lege, nu putea fi nici vinovăție"
+    },
+    {
+        "keyword": "NOTAR",
+        "legaleza": "persoana fizică, licenţiată în drept sau având titlul ştiinţific de doctor în drept, care are, potrivit legii, dreptul de a desfăşura activitatea notarială, în conformitate cu dispoziţiile legale",
+        "romana": "omul care pune ștampila pe acte, să le legalizeze"
+    },
+    {
+        "keyword": "NULITATE",
+        "legaleza": "sancțiune care constă în lipsirea actului juridic civil de efectele sale firești, întrucât acesta a fost încheiat cu nerespectarea dispozițiilor legale imperative sau cu încălcarea condițiilor de validitate ale actului respectiv",
+        "romana": "ca și cum n-ar fi existat"
+    },
+    {
+        "keyword": "OLOGRAF",
+        "legaleza": "scris în întregime, datat şi semnat de mână",
+        "romana": "ce faci cu mâna ta se numește lucru manual"
+    },
+    {
+        "keyword": "ORDONANȚĂ PREȘIDENȚIALĂ",
+        "legaleza": "procedura specială în temeiul careia, instanţa de judecată poate dispune măsuri temporare, în cazuri urgente, pentru păstrarea unui drept care s-ar păgubi prin intarziere, pentru prevenirea unei pagube iminente şi care nu s-ar putea repara, precum şi pentru înlăturarea piedicilor ce s-ar ivi cu prilejul unei executări",
+        "romana": "decizie a judecătorului, în cazuri speciale"
+    },
+    {
+        "keyword": "ORDONANȚĂ",
+        "legaleza": "act procedural emis de organul de urmărire penală, prin care acesta dispune asupra unor acte sau măsuri procesuale, în timpul efectuării urmăririi penale",
+        "romana": "act al procurorului"
+    },
+    {
+        "keyword": "ORGANE DE CERCETARE PENALĂ",
+        "legaleza": "organele de cercetare ale poliţiei judiciare şi organele de cercetare penală speciale",
+        "romana": "polițiști și procurori"
+    },
+    {
+        "keyword": "PARCHET",
+        "legaleza": "instituţie judiciară care funcţionează pe lângă unele instanţe judecătoreşti, cu atribuţia de a exercita acţiunea penală şi de a susţine acuzarea la judecarea proceselor penale",
+        "romana": "locul unde muncesc procurorii"
+    },
+    {
+        "keyword": "PANTUFLAJ",
+        "legaleza": "situația în care un demnitar magistrat, funcționar sau angajat din sectorul public ajunge să lucreze, în sectorul privat, în cadrul unei entități care are interese contrare sau divergente față de instituția de unde provine acesta",
+        "romana": "când te duci să lucrezi acolo unde-ai controlat (și te plasezi într-un fel de conflict de interese)"
+    },
+    {
+        "keyword": "PARTAJ",
+        "legaleza": "mod specific de realizare a ieșirii din indiviziune, pe baza convenției părților sau pe cale judecătorească",
+        "romana": "împărțire/împărțeală"
+    },
+    {
+        "keyword": "PARTE CIVILĂ",
+        "legaleza": "partea vătămată care exercită acțiunea civilă pentru repararea pagubei în cadrul procesului penal",
+        "romana": "de obicei, victima—dar și familia sau colegii de serviciu, după caz"
+    },
+    {
+        "keyword": "PARTE VĂTĂMATĂ",
+        "legaleza": "persoană fizică (sau juridică) care a suferit o pagubă materială sau morală în urma săvârșirii de către altcineva a unei infracțiuni",
+        "romana": "de obicei, victima (vezi și acțiunea civilă în procesul penal)"
+    },
+    {
+        "keyword": "PASIV PATRIMONIAL",
+        "legaleza": "totalitatea obligaţiilor (datoriilor) şi sarcinilor din conţinutul unui patrimoniu",
+        "romana": "toate datoriile tale"
+    },
+    {
+        "keyword": "PATRIMONIU",
+        "legaleza": "ansamblul drepturilor (activul) şi obligaţiilor (pasivul) având valoare economică, aparţinând unei persoane fizice sau unei persoane juridice",
+        "romana": "tot ce ai tu în viața asta :)"
+    },
+    {
+        "keyword": "PEDEAPSĂ",
+        "legaleza": "măsura de constrângere luată împotriva celui vinovat de săvârșirea unei infracțiuni și mijoc de reeducare a condamnatului",
+        "romana": "închisoare, muncă în folosul comunității, amendă, mustrare"
+    },
+    {
+        "keyword": "PEDEAPSĂ ACCESORIE",
+        "legaleza": "interzicerea exercitării unor drepturi, din momentul rămânerii definitive a hotărârii de condamnare şi până la executarea sau considerarea ca executată a pedepsei privative de libertate",
+        "romana": "poate nu-ți ajungea pedeapsa principală :P"
+    },
+    {
+        "keyword": "PEDEAPSĂ COMPLEMENTARĂ",
+        "legaleza": "măsuri de constrângere menite să completeze represiunea instituită prin pedeapsa principală",
+        "romana": "când nu poți candida în alegeri, dacă ești deja sau ai fost în închisoare"
+    },
+    {
+        "keyword": "PENALITĂȚI",
+        "legaleza": "sume de bani sau orice valori patrimoniale pe care părţile le pot stabili ca sancţiune în sarcina debitorului pentru neexecutarea sau executarea necorespunzătoare din culpă a oricărei obligaţii",
+        "romana": "dacă nu faci la timp sau cum treb’e, plătești"
+    },
+    {
+        "keyword": "PERSOANĂ FIZICĂ",
+        "legaleza": "omul, privit individual, ca titular de drepturi şi de obligaţii civile",
+        "romana": "tu?!?"
+    },
+    {
+        "keyword": "PERSOANĂ JURIDICĂ",
+        "legaleza": "orice formă de organizare care, întrunind condiţiile cerute de lege, este titulară de drepturi şi de obligaţii civile",
+        "romana": "firma, asociația sau instituția noastră"
+    },
+    {
+        "keyword": "PERCHEZIȚIE",
+        "legaleza": "procedeu de investigație folosit atunci când persoana căreia i s-a cerut să predea vreun obiect sau vreun înscris, care are legătura cu rezolvarea cauzei, tăgăduiește existența sau deținerea acestora și care constă în căutarea acelor dovezi",
+        "romana": "când se răscolește casa, mașina sau computerul ori telefonul, pentru a găsi ce-ai ascuns"
+    },
+    {
+        "keyword": "PERSOANĂ RESPONSABILĂ CIVILMENTE",
+        "legaleza": "persoana chemată în procesul penal să răspundă potrivit legii civile pentru pagubele provocate prin fapta învinuitului sau inculpatului",
+        "romana": "părinte, șef de tură la serviciu, profesor, director (vezi și acțiunea civilă în procesul penal)"
+    },
+    {
+        "keyword": "PETIȚIE",
+        "legaleza": "cererea, reclamaţia, sesizarea sau propunerea formulată în scris ori prin poştă electronică, pe care un cetăţean sau o organizaţie legal constituită o poate adresa autorităţilor şi instituţiilor publice centrale şi locale, serviciilor publice descentralizate ale ministerelor şi ale celorlalte organe centrale, companiilor şi societăţilor naţionale, societăţilor comerciale de interes judeţean sau local, precum şi regiilor autonome",
+        "romana": "plângere, lărcămație, jalbă, cerere"
+    },
+    {
+        "keyword": "PLÂNGERE",
+        "legaleza": "cerere, act prin care se face sesizarea unui organ de jurisdicție în vederea exercitării controlului asupra unui act al administrației de stat ori a refuzului unui organ de a-și îndeplini atribuțiile legale",
+        "romana": "când „te spune” cineva"
+    },
+    {
+        "keyword": "PLÂNGERE CONTRAVENȚIONALĂ",
+        "legaleza": "cerere prin care contravenientul contestă în fața instanței legalitatea și/sau temeinicia procesului verbal de contravenție încheiat de organul constatator",
+        "romana": "eu mergeam cu 50 la oră, dar radarul nu era calibrat la standard european, onorată instanță!"
+    },
+    {
+        "keyword": "PLÂNGERE PENALĂ",
+        "legaleza": "cerere prin care partea vătămată sesizează un organ de jurisdicție cu privire la săvârșirea unei infracțiuni",
+        "romana": "când „te toarnă” cineva la poliție sau la parchet"
+    },
+    {
+        "keyword": "PLÂNGERE PREALABILĂ",
+        "legaleza": "actul procesual penal prin care persoana vătămată printr-o infracţiune îşi manifestă în mod expres voinţa de a fi tras la răspundere penală făptuitorul, act procesual fără de care nu poate interveni aplicarea legii penale şi, pe cale de consecinţă, nu poate începe şi nici continua urmărirea penală",
+        "romana": "dacă nu „te spune,” nu te doare"
+    },
+    {
+        "keyword": "POLIȚIST",
+        "legaleza": "lucrător specializat din Ministerul Administraţiei şi Internelor însărcinat cu paza şi menţinerea ordinii publice",
+        "romana": "adjectiv, Garcea"
+    },
+    {
+        "keyword": "POLIȚIST JUDICIAR",
+        "legaleza": "organ de cercetare penală, ce funcţionează potrivit unei legi speciale, desfăşurându-şi activitatea sub autoritatea procurorului general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie",
+        "romana": "Garcea specializat"
+    },
+    {
+        "keyword": "POPRIRE",
+        "legaleza": "modalitate de executare silită ce constă în indisponibilizarea unor sume de bani ori a unor produse datorate debitorului de către o persoană, urmând ca ele să servească plății creditorului după validarea popririi",
+        "romana": "când îți oprește o parte din venituri"
+    },
+    {
+        "keyword": "POSESIE",
+        "legaleza": "stare de fapt ce constă în stăpânirea materială a unui lucru, în exercitarea unei puteri de fapt asupra acestuia, care dă posesorului putinţa de a se comporta ca şi când el ar fi adevăratul titular al dreptului de proprietate (sau al altui drept real) asupra acelui lucru",
+        "romana": "ce-i în mână nu-i minciună"
+    },
+    {
+        "keyword": "PROCUROR",
+        "legaleza": "magistrat, membru al unui parchet, care exercită următoarele atribuţii: efectuează urmărirea penală în cazurile şi în condiţiile prevăzute de lege; conduce, coordonează şi supraveghează activitatea de cercetare penală a altor organe de cercetare penală; sesizează instanţele judecătoreşti pentru judecarea cauzelor penale; exercită acţiunea civilă, în cazurile prevăzute de lege; participă la sedinţele de judecată; poate exercita căile de atac împotriva hotărârilor judecătoreşti; apără drepturile şi interesele legitime ale minorilor, ale persoanelor puse sub interdicţie, dispăruţilor şi altor persoane, în condiţiile legii; acţioneneză pentru prevenirea şi combaterea criminalităţii sub coordonarea ministrului justiţiei",
+        "romana": "magistratul care aduce la judecată hoți, violatori, corupți..."
+    },
+    {
+        "keyword": "PROCURĂ",
+        "legaleza": "împuternicire legalizată prin care cineva poate acționa în numele altcuiva",
+        "romana": "mandat, să te ocupi tu pentru mine"
+    },
+    {
+        "keyword": "PROROGARE DE COMPETENȚĂ",
+        "legaleza": "prelungirea sau extinderea competenţei unei instanţe şi asupra unor cereri pe care în mod obişnuit, în cadrul competenţei sale normale, nu le-ar putea rezolva",
+        "romana": "hai că mă ocup eu și de asta, dacă tot m-am apucat"
+    },
+    {
+        "keyword": "PREJUDICIU",
+        "legaleza": "daună provocată unei persoane în urma săvârșirii unei fapte ilicite de către o altă persoană",
+        "romana": "pagubă, gaură-n portofel"
+    },
+    {
+        "keyword": "PRESCRIPȚIE",
+        "legaleza": "mijlocul de stingere a unui drept la acțiune sau la executarea unei hotărâri prin neexercitarea lui în termenul prevăzut de lege sau mijlocul de dobândire a dreptului de proprietate asupra unui lucru prin posesia lui cu bună-credință un anumit timp.",
+        "romana": "faci, nu faci, vremea făcutului trece :P"
+    },
+    {
+        "keyword": "PRESCRIPȚIE EXTINCTIVĂ",
+        "legaleza": "mijlocul de stingere sau de pierdere a dreptului la acţiune în sens material ca urmare a neexercitării lui în termenul prevăzut de lege",
+        "romana": "a trecut vremea, nu se mai face"
+    },
+    {
+        "keyword": "PRESCRIPȚIE ACHIZITIVĂ",
+        "legaleza": "prescripţie achizitivă denumită şi uzucapiune reprezintă mijlocul de dobândire a dreptului de proprietate sau alte drepturi reale prin posesiunea unui bun imobil sau mobil, în condiţiile legii, într-un interval de timp (10-20 de ani sau 30 de ani dupa Codul civil de la 1864, respective 5 sau 10 ani dupa noul Cod civil)",
+        "romana": "dacă-l am de-atâta timp, e-al meu!"
+    },
+    {
+        "keyword": "PROBĂ",
+        "legaleza": "orice element de fapt care servește la cunoașterea împrejurărilor necesare pentru justa soluționare a cauzei",
+        "romana": "dovadă"
+    },
+    {
+        "keyword": "PROBAȚIUNE",
+        "legaleza": "reintegrare socială a persoanelor aflate în conflict cu legea penală",
+        "romana": "înapoi acasă, în 10 pași simpli"
+    },
+    {
+        "keyword": "PROPRIETATE PUBLICĂ",
+        "legaleza": "dreptul de proprietate ce aparţine statului sau unei unităţi administrativ-teritoriale asupra bunurilor care, prin natura lor sau prin declaraţia legii, sunt de uz ori de interes public, cu condiţia să fie dobândite prin unul dintre modurile prevăzute de lege",
+        "romana": "al nostru, al tuturor"
+    },
+    {
+        "keyword": "PROPRIETATE PRIVATĂ",
+        "legaleza": "dreptul titularului de a poseda, folosi şi dispune de un bun în mod exclusiv, absolut şi perpetuu, în limitele stabilite de lege",
+        "romana": "al meu, doar al meu"
+    },
+    {
+        "keyword": "RECIDIVĂ",
+        "legaleza": "constă în săvârșirea din nou a unei infracțiuni de către o persoană care anterior a mai fost condamnată anterior pentru o altă infracțiune",
+        "romana": "când nu te poți abține și mai calci o dată pe bec"
+    },
+    {
+        "keyword": "REABILITARE",
+        "legaleza": "mijlocul legal prin intermediul căruia încetează decăderile și interdicțiile, precum și incapacitățile care rezultă din condamnare",
+        "romana": "nou-nouț, ca un bebe adult"
+    },
+    {
+        "keyword": "RECHIZITORIU",
+        "legaleza": "act procesual prin care procurorul dispune trimiterea în judecată a inculpatului şi pune în mişcare acţiunea penală, în cazul în care aceasta nu fusese pusă în mişcare. Dacă acţiunea penală fusese pusă în mişcare prin ordonanţă, rechizitoriul cuprinde numai dispoziţia de trimitere în judecată. Rechizitoriul constituie actul de sesizare a instanţei",
+        "romana": "când s-a finalizat urmărirea penală și procurorul vrea să-ncepapă procesul pentru dovedirea vinovăției infractorului"
+    },
+    {
+        "keyword": "RECUPERARE A BUNURILOR",
+        "legaleza": "acțiune care poate acompania sau chiar depăși limitele confiscării extinse, cu scopul de-a acoperi prejudiciul prin sesizarea bunurilor ascunse de condamnat, tocmai pentru a se putea bucura de ele după eliberare",
+        "romana": "nu te supăra, frate, ai furat, dai înapoi!"
+    },
+    {
+        "keyword": "RESTRÂNGEREA UNOR DREPTURI",
+        "legaleza": "măsură care se impune pentru: apărarea securităţii naţionale, a ordinii, a sănătăţii ori a moralei publice, a drepturilor şi a libertăţilor cetăţenilor; desfăşurarea instrucţiei penale; prevenirea consecinţelor unei calamităţi naturale, ale unui dezastru ori ale unui sinistru deosebit de grav",
+        "romana": "temporar tăiat de la porție"
+    },
+    {
+        "keyword": "RETRIMITERE",
+        "legaleza": "în cazurile prevăzute de lege, când se admite apelul și se desființează decizia primei instanțe, se dispune rejudecarea chiar de către instanța a cărei hotărâre a fost desființată",
+        "romana": "ai greșit, ia-o de la capăt"
+    },
+    {
+        "keyword": "REFACEREA URMĂRIRII PENALE",
+        "legaleza": "activitate a organului de urmărire penală, căruia i s-a restituit sau trimis cauza de către procuror. Dacă procurorul, primind şi verificând dosarul de urmărire penală, constată că organul de cercetare penală nu a respectat prevederile legale ce garantează aflarea adevărului, el restituie cauza organului care a efectuat urmărirea penală sau, dacă socoteşte necesar, o trimite unui alt organ de cercetare pentru r.u.p. cu respectarea dispoziţiilor legale",
+        "romana": "n-a fost bine, ia-o de la capăt!"
+    },
+    {
+        "keyword": "REUTILIZARE SOCIALĂ",
+        "legaleza": "modalitate de utilizare, în scopuri sociale sau pentru cauze sociale, a bunurilor confiscate și/sau recuperate de la infractorii condamnați",
+        "romana": "sîc, ne bucurăm noi de ce-ai furat tu :P"
+    },
+    {
+        "keyword": "RECURS",
+        "legaleza": "cale extraordinară de atac în care instanța de recurs, superioară în grad, verifică conformitatea hotărârii atacate cu regulile de drept aplicabile (alte căi extraordinare de atac sunt contestația în anulare și revizuirea)",
+        "romana": "o altă șansă de-a corecta o hotărâre judecătorească pe care o consideri nedreaptă"
+    },
+    {
+        "keyword": "RECUZARE",
+        "legaleza": "situația în care partea solicită înlocuirea judecătorului sau procurorului, grefierului, expertului pe care îl consideră incompatibil să participe în proces, cunoscând că se află într- unul din cazurile prevăzute de lege (de exemplu, este rudă cu una dintre părțile din proces) în care imparțialitatea sa ar putea fi pusă la îndoială",
+        "romana": "ce faci când ți se pare că-i și-n căruță, și-n teleguță, deci nu poate fi obiectiv (vezi și abținere)"
+    },
+    {
+        "keyword": "REGISTRATURĂ",
+        "legaleza": "serviciu într-o instituție, întreprindere etc. unde se înregistrează corespondența, actele intrate și ieșite",
+        "romana": "așteptați aici, luați un număr de ordine :P"
+    },
+    {
+        "keyword": "REZILIERE",
+        "legaleza": "sancţiunea care intervine în cazul neexecutării culpabile a unei obligaţii izvorâte dintr-un contract sinalagmatic cu executare succesivă, constând în desfacerea contractului respectiv (numai pentru viitor)",
+        "romana": "ca și când contractul n-ar fi existat"
+    },
+    {
+        "keyword": "REȚINERE",
+        "legaleza": "măsură preventivă privativă de libertate pe care organul de cercetare penală sau procurorul o poate lua faţă de învinuit dacă sunt date sau indicii temeinice că a săvârşit o faptă prevăzută de legea penală",
+        "romana": "stai cu mine, că mi-e frică … să nu te pierd :P"
+    },
+    {
+        "keyword": "REVIZUIRE",
+        "legaleza": "cale extraordinară de atac prin care se poate desființa o hotărâre judecătorească definitivă în urma descoperirii unor fapte sau împrejurări ce nu au fost cunoscute de instanța de judecată",
+        "romana": "lucrurile stau, de fapt, altfel, așa că hotărârea asta nu poate sta în picioare"
+    },
+    {
+        "keyword": "REZOLUȚIUNE",
+        "legaleza": "desființarea cu efect retroactiv a contractului cu executare imediată, la cererea unei părți ca urmare a neexecutării culpabile a prestației asumată de către cealaltă parte",
+        "romana": "ca și când contractul n-ar fi existat"
+    },
+    {
+        "keyword": "ROLUL ACTIV AL JUDECĂTORULUI",
+        "legaleza": "judecătorul este îndreptăţit să ceară părţilor să prezinte explicaţii, oral sau în scris, precum şi să pună în dezbaterea lor orice împrejurări de fapt sau de drept care duc la dezlegarea pricinii, chiar dacă nu sunt cuprinse în cererea introductivă de instanţă sau în întâmpinare; el va putea ordona administrarea probelor pe care le consideră necesare, chiar dacă părţile se împotrivesc",
+        "romana": "mai povestește-mi o dată, mai arată-mi o dată, vreau să-nțeleg mai bine!"
+    },
+    {
+        "keyword": "RECURS ÎN INTERESUL LEGII",
+        "legaleza": "reprezinta modalitatea procedurală prin care procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie, din oficiu sau la cererea ministrului justiţiei, colegiul de conducere al Înaltei Curţi de Casaţie şi Justiţie sau colegiile de conducere ale curţilor de apel, precum şi Avocatul Poporului au îndatorirea să ceară Înaltei Curţi de Casaţie şi Justiţie să se pronunţe asupra chestiunilor de drept care au fost soluţionate diferit de instanţele judecătoreşti",
+        "romana": "când instanțele se ceartă, vine Mam’mare și le-mpacă"
+    },
+    {
+        "keyword": "SARCINA PROBEI",
+        "legaleza": "sintagmă prin care se dă expresie principiului potrivit căruia „cel ce face o propunere înaintea judecăţii trebuie să o dovedească”",
+        "romana": "cine ce trebuie să dovedească"
+    },
+    {
+        "keyword": "SECHESTRU",
+        "legaleza": "procedură ce constă în indisponibilizarea unui bun până la confiscare sau executare silită",
+        "romana": "nu te-atingi de el, până nu ne lămurim"
+    },
+    {
+        "keyword": "SECHESTRU ASIGURĂTOR",
+        "legaleza": "măsura asigurătorie care se înfiinţează asupra bunurilor mobile sau imobile ale debitorului pârât, urmând ca acestea să fie vândute dacă debitorul nu-și vaachita obligația de bună voie faţă de creditor",
+        "romana": "ia să mă asigur io că ai cu ce plăti"
+    },
+    {
+        "keyword": "SENTINȚĂ",
+        "legaleza": "hotărâre judecătorească prin care instanta de judecată soluţionează cauza în prima instanţă ori prin care aceasta se dezinvesteşte fără a soluţiona cauza",
+        "romana": "decizie, hotărâre"
+    },
+    {
+        "keyword": "SESIZARE",
+        "legaleza": "înștiințare trimisă unui organ al statului în vederea declanșării unei cercetări cu privire la o anumită problemă",
+        "romana": "„te spun, te spun, gata, spuseeeee”"
+    },
+    {
+        "keyword": "SOLICITARE DE INFORMAȚII",
+        "legaleza": "cerere de acces la informații de interes public care privesc sau rezultă din activitatea unei instituții publice",
+        "romana": "„vreau să știu”"
+    },
+    {
+        "keyword": "SUCCESIUNE",
+        "legaleza": "transmisiunea patrimoniului de la persoana decedată către moştenitorii săi, în ordinea şi cotele stabilite de lege",
+        "romana": "moștenire"
+    },
+    {
+        "keyword": "SUCCESOR",
+        "legaleza": "persoana care dobândeşte în temeiul legii sau a unui act juridic, drepturile şi obligaţiile altei persoane, denumită autor",
+        "romana": "moștenitor, urmaș"
+    },
+    {
+        "keyword": "SUSPECT",
+        "legaleza": "persoana bănuită ca posibil autor al unei infracțiuni; urmează să fie interogată, poate fi reținută, e obligată să răspundă convocării și să participe la actele procedurale ale procurorului",
+        "romana": "posibil nevinovat, posibil făptuitor, vedem noi!"
+    },
+    {
+        "keyword": "STRĂMUTARE",
+        "legaleza": "instituția prin care o anumită cauză este luată din competenta unei instanțe și este data spre soluționare unei alte instanțe de același grad, din motive expres prevăzute de lege (bănuială legitimă sau siguranță publică)",
+        "romana": "mutarea procesului la altă instanță"
+    },
+    {
+        "keyword": "TERMEN",
+        "legaleza": "un interval de timp în care organele judiciare sau persoanele interesate pot să-și exercite drepturile sau obligațiile procesuale",
+        "romana": "timp/durată/dată"
+    },
+    {
+        "keyword": "TERMEN ÎN CUNOȘTINȚĂ",
+        "legaleza": "data fixată de organul de jurisdicție competent pentru soluționarea unei cauze, comunicată direct uneia sau unora dintre părți, în condițiile prevăzute de lege, care face ca partea sau părțile respective să aibă obligația de a se prezenta la judecată fără a mai fi citate la termenele următoare",
+        "romana": "dată despre care nu te poți preface că nu știai"
+    },
+    {
+        "keyword": "TESTAMENT",
+        "legaleza": "actul unilateral, personal şi revocabil prin care o persoană, numită testator, dispune în una dintre formele cerute de lege, pentru timpul cât nu va mai fi în viaţă",
+        "romana": "ultima dorință a celui decedat"
+    },
+    {
+        "keyword": "TRAFIC DE INFLUENȚĂ",
+        "legaleza": "infracţiunea ce constă în pretinderea, primirea ori acceptarea promisiunii de bani sau alte foloase, direct sau indirect, pentru sine sau pentru altul, săvârşită de către o persoană care are influenţă sau lasă să se creadă că are influenţă asupra unui funcţionar public şi care promite că îl va determina pe acesta să îndeplinească, să nu îndeplinească, să urgenteze ori să întârzie îndeplinirea unui act ce intră în îndatoririle sale de serviciu sau să îndeplinească un act contrar acestor îndatoriri",
+        "romana": "când lupul îți cere capra, lăsându-te să crezi că vorbește el cu vecinu’ să-ți lase ție varza"
+    },
+    {
+        "keyword": "TRANZACȚIE",
+        "legaleza": "contract prin care părțile termină un proces început ori preîntâmpină un proces ce poate să se nască, făcându-și concesii reciproce",
+        "romana": "acord, înțelegere"
+    },
+    {
+        "keyword": "TRIBUNAL",
+        "legaleza": "instanţa judecatorească ce judecă în prima instanţă procesele şi cererile date prin lege în competenţa sa. Ca instanţă de apel, judecă apelurile declarate împotriva hotărârilor pronunţate de judecătorii în primă instanţă, iar ca instanta de recurs, judecă cazurile anume prevăzute de lege",
+        "romana": "fiul curții de apel, fratele mai mare al judecătoriei"
+    },
+    {
+        "keyword": "TUTELĂ",
+        "legaleza": "instituție legală care are menirea de a ocroti minorii sau persoanele puse sub interdicție",
+        "romana": "ocrotirea unui minor"
+    },
+    {
+        "keyword": "TUTORE",
+        "legaleza": "persoană fizică numită prin decizia autorităţii tutelare spre a îndeplini, sub supravegherea, controlul şi îndrumarea acesteia, sarcina tutelei faţă de un minor sau faţă de o persoană pusă sub interdicţie.",
+        "romana": "cel care ocrotește minorul"
+    },
+    {
+        "keyword": "URMĂRIRE PENALĂ",
+        "legaleza": "prima fază a procesului penal, având ca obiect strîngerea probelor cu privire la existenţa infracţiunilor, la identificarea făptuitorilor şi la stabilirea răspunderii acestora, pentru a se constata dacă este sau nu cazul să se dispună trimiterea în judecată",
+        "romana": "când se strâng probele"
+    },
+    {
+        "keyword": "ULTRAACTIVITATEA LEGII PENALE",
+        "legaleza": "excepţie de la principiul incetării acţiunii unui act normativ prin abrogarea sau expirarea termenului, în sensul că, deşi nu mai este în vigoare, actul normativ îşi produce efectele în unele cazuri",
+        "romana": "decât să nu mai fie lege, mai bine să fie aia veche"
+    },
+    {
+        "keyword": "UZUCAPIUNE",
+        "legaleza": "denumită şi prescripţie achizitivă reprezintă mijlocul de dobândire a dreptului de proprietate sau alte drepturi reale prin posesiunea unui bun imobil sau mobil, în condiţiile legii, într- un interval de timp (10-20 de ani sau 30 de ani dupa Codul civil de la 1864, respective 5 sau 10 ani dupa noul Cod civil)",
+        "romana": "nici nu mai țin minte de când îl am, sigur e doar al meu"
+    },
+    {
+        "keyword": "VACANȚĂ JUDECĂTOREASCĂ",
+        "legaleza": "perioada în care se efectuează concediile de odihnă cuvenite personalului instanțelor, și nu se desfășoară ședințe de judecată, cu excepția cauzelor în materie penală cu arestați, a cererilor pentru obligațiile de întreținere de orice fel, asigurarea dovezilor, cererile de ordonanță președințială, precum și în alte cauze considerate urgente, conform legii",
+        "romana": "și judecătorii au concediu"
+    },
+    {
+        "keyword": "VALIDITATE",
+        "legaleza": "calitate a unui act juridic de a întruni toate condițiile și de a produce toate efectele prevăzute de lege",
+        "romana": "dacă e bun, complet și frumos în ochii legii"
+    },
+    {
+        "keyword": "VICII ASCUNSE",
+        "legaleza": "defectele sau deficientele calitative ale bunului vândut, închiriat, sau ale lucrărilor executate, care, existând în momentul predării bunului nu au fost cunoscute de către dobânditor și nici nu puteau fi descoperite de el prin mijloacele obișnuite de verificare sau recepție și care fac ca bunul sa nu poată fi întrebuințat conform destinației sale ori îi micșorează posibilitățile de întrebuințare în așa măsura încât se poate presupune că dobânditorul n-ar fi contractat sau n-ar fi consimțit să plătească prețul contractual stabilit dacă l-ar fi cunoscut",
+        "romana": "defecte—despre lucruri"
+    },
+    {
+        "keyword": "VICII DE CONSIMȚĂMÂNT",
+        "legaleza": "împrejurări de fapt care afectează libertatea exprimării voinței juridice sau caracterul ei conștient la încheierea unui act juridic și care dau dreptul persoanei în cauză să ceară anularea acestuia(de ex. eroarea, dolul, violența și, în condițiile legii, leziunea)",
+        "romana": "defecte—despre voința sau dorința omului"
+    },
+    {
+        "keyword": "VINOVĂȚIE",
+        "legaleza": "una din trăsăturile esențiale ale infracțiunii, constă în atitudinea conștiinței subiectului infracțiunii față de fapta și față de rezultatul faptei sale și există când fapta ce prezintă pericol social este săvârșită cu intenție sau din culpă",
+        "romana": "când înțelegi ce s-a întâmplat, din cauza ta"
+    },
+    {
+        "keyword": "VIOLENȚĂ",
+        "legaleza": "viciu de consimţământ care constă în ameninţarea unei persoane cu un rău de natură să îi producă, fără drept, o temere ce o determină să încheie un act juridic, pe care altfel nu l-ar fi încheiat",
+        "romana": "când ți se face frică"
+    }
+]
