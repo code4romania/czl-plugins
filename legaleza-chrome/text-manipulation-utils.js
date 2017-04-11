@@ -72,7 +72,7 @@ TextManipulationUtils = (function () {
      * @param textNode Node to decorate.
      */
     function decorate(textNode) {
-        var parent = textNode.parentNode;
+
         var text = textNode.textContent;
 
         // TODO: This is duplicate. Will go away when implementing the correct word matching algorithm not the current stub one.
@@ -93,12 +93,7 @@ TextManipulationUtils = (function () {
 
         // Make changes to DOM
         if (currentLength !== -1) {
-            var regExp = new RegExp(currentKeyword, "ig");
-            text = text.replace(regExp, '<span class="legaleza-popup">' + currentKeyword.toLowerCase() + '<div><div>Romana: ' + currentDictionaryEntry.romana + '</div><div>Legaleza: ' + currentDictionaryEntry.legaleza + '</div></div></span>');
-
-            var editedNode = document.createElement('span');
-            editedNode.innerHTML = text;
-            parent.replaceChild(editedNode, textNode);
+            PopupInject.inject(textNode, currentDictionaryEntry);
         }
     }
 

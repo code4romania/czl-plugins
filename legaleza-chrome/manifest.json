@@ -28,6 +28,7 @@
                 "text-manipulation-utils.js",
                 "dictionary.js",
                 "css-inject.js",
+                "popup-inject.js",
                 "app.js"
             ],
             "matches": [
@@ -39,6 +40,7 @@
     ],
     "web_accessible_resources": [
         "resources/*.json",
-        "resources/*.css"
+        "resources/*.css",
+        "/resources/*.html"
     ]
 }
